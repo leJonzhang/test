@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+  <meta name="viewport" content="device-width,initial-scale=1"/>    <!-- 页面自适应 -->
+  <link rel="shortcut icon" href="../logo/iconame.ico">
+	<title>欢迎页</title>
+  <link href="../css/1.css" type="text/css" rel="stylesheet" />
+</head>
+<body>
+<div class="bg">
+
+          <p align="center" class="1">
+          <img src="../logo/logo2.jpg"  width="300">
+          </p>
+          <p align="center" class="2">
+          <a href="page02.html" target="_self"><input type="submit" value="点击进入" /><!-- 按钮 -->
+          </p>
+</div>  	
+</body>
+</html>
